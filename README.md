@@ -1,4 +1,4 @@
-# open-science-workshop-2024
+# open-science-workshop
 
 **Title:** Open Science and Scholarly Publications
 
