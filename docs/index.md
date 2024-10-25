@@ -27,7 +27,9 @@ This workshop requires the following software:
 ## Agenda
 
 + 0:00 - Welcome and Announcements:
-+ 0:05 - Discussion of the Journal Submission and Publishing Process
++ 0:05 - Discussion of the Journal Submission and Publishing Process:
+  + Discuss Open Access Journals and the [impact](https://guides.lib.umich.edu/open-research-and-scholarship/OSTP-memo) of the [Nelson Memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)
+  + Discuss [Arxiv](https://arxiv.org/) for pre-prints
 + 0:15 - Discussion of Reproducible Research
 + 0:25 - Introduction to [Quarto](./quarto.md):
   + Install and use the Quarto publishing tool to generate a manuscript project.
