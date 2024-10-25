@@ -17,13 +17,15 @@ If you use VS Code, you can also consider installing the [Quarto Extension](http
 
 ## Project Initialization
 
-Initialize a quarto project of a specific type (book, website, manuscript, etc):
+First create a software repository or parent folder to house the project, for example "my-quarto-project".
+
+Within in the repository, initialize a quarto project of a specific type (book, website, manuscript, etc):
 
 ```sh
-# quarto create book
-# quarto create website
-quarto create manuscript
+quarto create
 ```
+
+Follow the menu options, choosing to create a project of type "manuscript".
 
 Consider initializing a project in a repository's "docs" subdirectory, to stay organized. The commands below assume your Quarto project is in a "docs" subdirectory.
 
